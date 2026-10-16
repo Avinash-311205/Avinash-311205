@@ -26,5 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-311205&show_icons=true&locale=en" alt="avinash-311205" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-311205&" alt="avinash-311205" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=avinash-311205&theme=default)](https://git.io/streak-stats)
