@@ -25,4 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-311205&show_icons=true&locale=en&layout=compact" alt="avinash-311205" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-311205&show_icons=true&locale=en" alt="avinash-311205" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=avinash-311205&theme=default&timezone=Asia%2FKolkata)](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=avinash-311205&theme=default&timezone=Asia%2FKolkata)
